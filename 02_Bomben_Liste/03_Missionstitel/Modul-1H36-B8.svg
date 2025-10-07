@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Missionstitel_Grau" data-name="Missionstitel Grau" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 238 27">
+<svg id="Missionstitel_Grau" data-name="Missionstitel Grau" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238 27">
   <line id="Linie_Grau" data-name="Linie Grau" y1="26.25" x2="238" y2="26.25" fill="none" opacity=".2" stroke="#fff" stroke-dasharray="4.52 3.02" stroke-width="1.5"/>
-  <g opacity=".6">
-    <image width="104" height="29" transform="translate(-32 -33) scale(3)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAdCAYAAABG8ynTAAAACXBIWXMAAAOwAAADsAEnxA+tAAADxklEQVRoge3VS27bRhwG8G+GD5HUw5RjB65B1bsCdXoAshfoCdgL6AR2DpAT2L5AfIHqAjXQZQFq11WCAgngtmIcO5FtacTncB69QNokbYpmMb/19/0X8y0GMAzDMAzDMAzDMAzDMAzjs7SsZNrKVdqot+mmldG7MsXP6qT9pTr5qxs/1fpood7d/VDlvY7kPU/16jZWZZG+L7/gVXR5KX+4v5Jx04r410LF7+usW35UyKv35v5L5GMLQnQnVn0LVF2ivZ2s8p2JECprYEN5m2h8yXPdbed3B5uTlce+pXLvaI92Mxdy4goaC9vPf4c6+po6X26K7oiUNnj4BrbzCh0ZRA/IV48B4Dd9cxJCzX0VZgx/nFa0mg1wEDvKnzhUnfqkP18zdSSAZFsVWTPoJ5VVLzQ2c90RDIUf9YjMOqeflsKegdPTtgKIQq5DZNe2hsdJstfcLgb9cqJJlLXOGg7psmL9MBFWG4mByEG8fMRpykucPtim808/wd+jH1tYrq05btQxbsUZ3fIfd3fWM3rlTHFPLlbanbzdcaabhxKBl8/30Sb7lmSS1E8loSm37eOmpknY4PFLeX1422dTQsR0zDaJrwcjIJoAwPMrnSq1xXqy/0Tcih/F0j/c6IO07rYmtug9czSZAAAnSESnD0k4OmMAGg3mdla6feM+cdveCMx/agmLDVz91KY40wHOMMChBEbC0rkX1DNHe0wUwWGtSFJvglzq4JgO+dQdLic7aplscTyRFvB/jAP8g4GcpgTjwfcyHKalLE5ooKfaB7OAaf/eW0ANzweBiMPGi4YqjOTKZfUyZKrtxbSyMnoHjFZVuluV3xEpLjrKz1WwH0kSMok2Wqki2hspjHiP8XrAOAkeodk7J69CbAoaeao9t2kwAwAa8MWOri7ark1LSSKLBReuCGPqtExo+nx94z1iucU4s5jLEfeh4LuKhVyzgzWJR1ARApt5u7vfvClI9LZxY1IHEFZzYWEw05uHaNb8kSrffPqX/0AfPdDYt1LlbIFZY9QQ8L27mdfrji0LeegC/YZGLqfQeievujCqSprs3vFZ+OJ65r++zvtjmfkjgh7Zj3bVNuzAj0rqzQSh+QNZ5wOlMEabbbMqsS2dua5OCHWS8YZkXyjkIFYCAJeqiVeEQ/QxX1oiLTRyIknClTNX43BW+zwN9rtkNGqSboMzWpST4d3zeLh6eeZd88h5TSb9sot8tBEAiFZn6jVBWxIMtY2O9+OF6y3WPW9GsIui0v/qzzQMwzAMwzAMwzAMwzAM4/P2J1wJ/tqui/yjAAAAAElFTkSuQmCC"/>
+  <g>
+    <rect x="3" y="2.1" width="72.78" height="10.11" fill="#e8e9ed" opacity=".2"/>
+    <rect x="80.81" y="2.1" width="23.23" height="10.11" fill="#e8e9ed" opacity=".2"/>
+    <rect x="108.86" y="2.1" width="82.62" height="10.11" fill="#e8e9ed" opacity=".2"/>
   </g>
 </svg>
