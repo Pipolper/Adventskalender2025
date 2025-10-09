@@ -1,0 +1,5 @@
+4 Ordner anlegen für
+- Missionsname
+- Beschreibung
+- Konfiguration
+- Benötigte Zeit
