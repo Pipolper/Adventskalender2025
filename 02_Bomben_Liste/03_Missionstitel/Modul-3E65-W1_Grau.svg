@@ -39,7 +39,7 @@
         <rect x="7.62" y="25.5" width="4.52" height="1.5" fill="#fff"/>
         <rect y="25.5" width="4.52" height="1.5" fill="#fff"/>
       </g>
-      <rect id="Hauptzünder" x=".57" y="6" width="96.41" height="10.59" fill="#e8e9ed" opacity=".2" stroke="#fff"/>
+      <rect id="Hauptzünder" x=".57" y="6" width="96.41" height="10.59" fill="#fff" opacity=".2"/>
     </g>
   </g>
 </svg>
