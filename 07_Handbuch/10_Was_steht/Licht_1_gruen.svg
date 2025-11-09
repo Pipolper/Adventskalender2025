@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68 235">
+  <defs>
+    <filter id="luminosity-noclip" x="7" y="181" width="28" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="7" y="181" width="28" height="22" maskUnits="userSpaceOnUse">
+      <g filter="url(#luminosity-noclip)">
+        <image width="28" height="22" transform="translate(7 181)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAWCAYAAADTlvzyAAAACXBIWXMAAAsSAAALEgHS3X78AAACW0lEQVRIid2WW0vrQBRG1ySTxFxsIa30oRR8E///PxJbLU1SU5vY3GbOw2FCq6l6LPhwPhgIzLDX7OtEAJpflPWbMABpPm5ubpjNZozHY8IwxPM8pJRIKRFCIIQ4a0RrjVKKtm1p25bD4UBZlry8vLBer0nT9CNwNptxf3/PYrFgOp0yGo3wPA/HcbAsC8uyeqgQAq11D+u6DqUUTdPw9vbGbrcjSRIeHh4AhoHj8ZjFYsHd3R3z+Zw4jgmCAMdxsG2799JAj4FKKbquo65riqIgTVOWyyVKKZ6fn4dDGoYh0+mU+XzO7e0tk8kE3/eRUp4Ah8JpvGyahqIoiKIIrTVJkhCG4TDQ8zxGoxFxHDOZTIjjGNd1z+btnHzfR2tNnudEUYTneSf7fZVKKfE8jyAI8H3/RzBz8SAIejtSypP9HmjbNlJKHMf5cOhfZS5vqnwQaFkWtm336xKZqja5HwSag1/13Hd0XNGfApVSF4G+oxOg6SnTYz+VaRWzBoFKqX51XXcR8NjOWaBp3Lquadv2ImDbtr2d97Z6YNM0VFVFURSUZUld1z+CVVVFWZaUZcnhcPgQrb5J6rpmt9ux3W7JsgwhRD9LP6tekyelFHVdU5YlWZax3W7Z7/dUVTUM3O/3pGnKarVCCEGe54RhiOu62LaNZf0NxjHU5Od4eBs7T09PJElCURTDwNfXVx4fHxFCkGUZ19fXXF1d9ZPn2MP3z5PWmrZtT56nzWbDarUiz/Nh4Hq9BmC5XBJFEa7r4rpuPzXee3cs00oGamohz3M2m83JWcH//k/zB3oHa0mMuEYKAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-2" x="10" y="183" width="22" height="18" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-1" x="10" y="183" width="22" height="18" maskUnits="userSpaceOnUse">
+      <g filter="url(#luminosity-noclip-2)">
+        <image width="22" height="18" transform="translate(10 183)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAASCAYAAABfJS4tAAAACXBIWXMAAAsSAAALEgHS3X78AAABmklEQVQ4jdXUTcuqQBTA8f/oNDRmmzBcS62ib9D3X/QNJAN5NpZhIKSZ5stdJUVeogvP4p7VMHp+6DlnRgAdvxDGb6AA8rFYrVZ4nofjONi2jVIK0zQRQiCE6BO6rqNtW9q2pSxL8jzndDoRhiG+77/Dnuex2WxYLpc4joPWGilljz/DTdNQ1zV5npMkCUEQIIQYhh3HYbFYsF6vcV0Xy7KQUg5+cdd1PRzHMW3bEgTBcCls22Y+n+O6LrPZ7HMNpWQ8HiOEIIoibNt+ed43TymF1hrLsj6iz6G1RmuNUmoYNk2zr+k3IaVkNBq95fWwEALDMDCM7ybw0YPnPrzAXfdv5+RveS/wYz6/hYfyerhpGu73O03TfAVXVUVVVW95xvMLRVFwvV6/gouiIM9zyrJ82e/nOMsykiQhjmMAJpMJUsq3Zj5+va5rLpcLh8OB4/FImqbD8Pl8Zr/fI4QgjmMsy0IphWEYg0e6LEuyLCOKInzf5+fnZxgOwxAhBLvdjul0+vESquua2+1GmqaEYch2u32BBf/bffwHLljWukoF1IoAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+  </defs>
+  <g id="Seite_16" data-name="Seite 16">
+    <g id="Licht_1_gruen">
+      <rect id="Exportfläche" width="68" height="235" fill="none"/>
+      <path id="Modul" d="M0,17.5v217.5h50.5V17.5H0ZM37.5,219.5H5v-120h32.5v120Z" fill="#838f9b"/>
+      <g id="Kante_Modul" data-name="Kante Modul">
+        <rect id="Exportfläche-2" data-name="Exportfläche" x="49" y="17.5" width="4" height="217.5" fill="#9ca5af"/>
+        <polygon points="0 17.5 0 21.5 49 21.5 53 17.5 0 17.5" fill="#b3bdc6"/>
+        <polygon points="49 231 0 231 0 235 53 235 49 231" fill="#4c5359"/>
+      </g>
+      <g id="Level">
+        <g id="Kante_Level" data-name="Kante Level">
+          <rect x="4" y="98.5" width="2" height="122" fill="#9ca5af"/>
+          <rect x="36.5" y="98.5" width="2" height="122" fill="#626b74"/>
+          <polygon points="38.5 220.5 4 220.5 6 218.5 36.5 218.5 38.5 220.5" fill="#b3bdc6"/>
+          <polygon points="36.5 100.5 6 100.5 4 98.5 38.5 98.5 36.5 100.5" fill="#4c5359"/>
+        </g>
+        <rect id="Level_1" data-name="Level 1" x="9.25" y="182.5" width="24" height="19" fill="#fff" opacity=".2"/>
+        <rect id="Level_2" data-name="Level 2" x="9.25" y="150" width="24" height="19" fill="#fff" opacity=".2"/>
+        <rect id="Level_3" data-name="Level 3" x="9.25" y="117.5" width="24" height="19" fill="#fff" opacity=".2"/>
+      </g>
+      <g id="richtig">
+        <g id="Level_1-2" data-name="Level 1">
+          <rect x="9.75" y="183" width="23" height="18" fill="#2c442e"/>
+        </g>
+        <g id="Level_1-3" data-name="Level 1">
+          <g mask="url(#mask)">
+            <rect x="9.75" y="183" width="23" height="18" rx="2" ry="2" fill="#beff6f"/>
+          </g>
+        </g>
+        <g id="Level_1-4" data-name="Level 1">
+          <g mask="url(#mask-1)">
+            <rect x="12.85" y="185.35" width="16.79" height="13.29" rx="2" ry="2" fill="#deff85"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
