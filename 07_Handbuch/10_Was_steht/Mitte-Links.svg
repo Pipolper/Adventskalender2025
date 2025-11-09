@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188 235">
+  <g id="Seite_16" data-name="Seite 16">
+    <g id="Mitte-Links">
+      <rect id="Exportfläche" width="188" height="235" fill="none"/>
+      <path id="Modul" d="M188,17.5H15v217.5h173V17.5ZM29.5,220.5v-122h152v122H29.5Z" fill="#838f9b"/>
+      <g id="Kante_Modul" data-name="Kante Modul">
+        <rect id="Exportfläche-2" data-name="Exportfläche" x="15" y="17.5" width="4" height="217.5" fill="#626b74"/>
+        <polygon points="188 17.5 15 17.5 19 21.5 188 21.5 188 17.5" fill="#b3bdc6"/>
+        <polygon points="188 231 19 231 15 235 188 235 188 231" fill="#4c5359"/>
+      </g>
+      <g id="Buttons">
+        <g id="Kante_Buttons" data-name="Kante Buttons">
+          <rect x="29.5" y="98.5" width="4" height="122" fill="#9ca5af"/>
+          <rect x="177.5" y="98.5" width="4" height="122" fill="#626b74"/>
+          <polygon points="181.5 220.5 29.5 220.5 33.5 216.5 177.5 216.5 181.5 220.5" fill="#b3bdc6"/>
+          <polygon points="177.5 102.5 33.5 102.5 29.5 98.5 181.5 98.5 177.5 102.5" fill="#4c5359"/>
+        </g>
+        <g>
+          <g id="Button_1" data-name="Button 1">
+            <path d="M171.5,212.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+            <polygon points="141.46 196.07 169.5 184.5 171.5 182.5 111.5 182.5 113.5 184.5 141.46 196.07" fill="#d2bf9a"/>
+            <polygon points="171.5 208.5 173.5 210.5 173.5 184.5 171.5 186.5 144.81 197.46 171.5 208.5" fill="#b6a689"/>
+            <polygon points="141.54 198.93 113.5 210.5 111.5 212.5 171.5 212.5 169.5 210.5 141.54 198.93" fill="#8d7f64"/>
+            <polygon points="111.5 186.5 109.5 184.5 109.5 210.5 111.5 208.5 138.19 197.54 111.5 186.5" fill="#d0bf9c"/>
+            <path d="M169.5,210.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+          </g>
+          <rect x="113.82" y="184.5" width="55.01" height="26" fill="none"/>
+        </g>
+        <g>
+          <g id="Button_1-2" data-name="Button 1">
+            <path d="M99.5,212.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+            <polygon points="69.46 196.07 97.5 184.5 99.5 182.5 39.5 182.5 41.5 184.5 69.46 196.07" fill="#d2bf9a"/>
+            <polygon points="99.5 208.5 101.5 210.5 101.5 184.5 99.5 186.5 72.81 197.46 99.5 208.5" fill="#b6a689"/>
+            <polygon points="69.54 198.93 41.5 210.5 39.5 212.5 99.5 212.5 97.5 210.5 69.54 198.93" fill="#8d7f64"/>
+            <polygon points="39.5 186.5 37.5 184.5 37.5 210.5 39.5 208.5 66.19 197.54 39.5 186.5" fill="#d0bf9c"/>
+            <path d="M97.5,210.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+          </g>
+          <rect x="41.82" y="184.5" width="55.01" height="26" fill="none"/>
+        </g>
+        <g id="Button_1-3" data-name="Button 1">
+          <path d="M171.5,174.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+          <polygon points="141.46 158.07 169.5 146.5 171.5 144.5 111.5 144.5 113.5 146.5 141.46 158.07" fill="#d2bf9a"/>
+          <polygon points="171.5 170.5 173.5 172.5 173.5 146.5 171.5 148.5 144.81 159.46 171.5 170.5" fill="#b6a689"/>
+          <polygon points="141.54 160.93 113.5 172.5 111.5 174.5 171.5 174.5 169.5 172.5 141.54 160.93" fill="#8d7f64"/>
+          <polygon points="111.5 148.5 109.5 146.5 109.5 172.5 111.5 170.5 138.19 159.54 111.5 148.5" fill="#d0bf9c"/>
+          <path d="M169.5,172.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+        </g>
+        <g>
+          <g id="Button_1-4" data-name="Button 1">
+            <path d="M99.5,174.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+            <polygon points="69.46 158.07 97.5 146.5 99.5 144.5 39.5 144.5 41.5 146.5 69.46 158.07" fill="#d2bf9a"/>
+            <polygon points="99.5 170.5 101.5 172.5 101.5 146.5 99.5 148.5 72.81 159.46 99.5 170.5" fill="#b6a689"/>
+            <polygon points="69.54 160.93 41.5 172.5 39.5 174.5 99.5 174.5 97.5 172.5 69.54 160.93" fill="#8d7f64"/>
+            <polygon points="39.5 148.5 37.5 146.5 37.5 172.5 39.5 170.5 66.19 159.54 39.5 148.5" fill="#d0bf9c"/>
+            <path d="M97.5,172.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+          </g>
+          <rect x="41.82" y="146.5" width="55.01" height="26" fill="none"/>
+        </g>
+        <g>
+          <g id="Button_1-5" data-name="Button 1">
+            <path d="M171.5,136.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+            <polygon points="141.46 120.07 169.5 108.5 171.5 106.5 111.5 106.5 113.5 108.5 141.46 120.07" fill="#d2bf9a"/>
+            <polygon points="171.5 132.5 173.5 134.5 173.5 108.5 171.5 110.5 144.81 121.46 171.5 132.5" fill="#b6a689"/>
+            <polygon points="141.54 122.93 113.5 134.5 111.5 136.5 171.5 136.5 169.5 134.5 141.54 122.93" fill="#8d7f64"/>
+            <polygon points="111.5 110.5 109.5 108.5 109.5 134.5 111.5 132.5 138.19 121.54 111.5 110.5" fill="#d0bf9c"/>
+            <path d="M169.5,134.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+          </g>
+          <rect x="113.82" y="108.5" width="55.01" height="26" fill="none"/>
+        </g>
+        <g>
+          <g id="Button_1-6" data-name="Button 1">
+            <path d="M99.5,136.5h-60l-2-2v-26l2-2h60l2,2v26l-2,2Z" fill="#cab58e"/>
+            <polygon points="69.46 120.07 97.5 108.5 99.5 106.5 39.5 106.5 41.5 108.5 69.46 120.07" fill="#d2bf9a"/>
+            <polygon points="99.5 132.5 101.5 134.5 101.5 108.5 99.5 110.5 72.81 121.46 99.5 132.5" fill="#b6a689"/>
+            <polygon points="69.54 122.93 41.5 134.5 39.5 136.5 99.5 136.5 97.5 134.5 69.54 122.93" fill="#8d7f64"/>
+            <polygon points="39.5 110.5 37.5 108.5 37.5 134.5 39.5 132.5 66.19 121.54 39.5 110.5" fill="#d0bf9c"/>
+            <path d="M97.5,134.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
+          </g>
+          <rect x="41.82" y="108.5" width="55.01" height="26" fill="none"/>
+        </g>
+      </g>
+      <g id="Display">
+        <rect id="Rand_Display" data-name="Rand Display" x="33.5" y="36" width="144" height="48" fill="#15191f"/>
+        <rect id="Display-2" data-name="Display" x="41.5" y="44" width="128" height="32" fill="#beb818"/>
+        <g>
+          <rect x="41.5" y="44" width="128" height="32" fill="none"/>
+          <path d="M70.8,54.37h9.65v1.61h-6.43v3.22h6.43v1.61h-6.43v4.82h-3.22v-11.25Z" fill="#7b8428"/>
+          <path d="M82.43,54.37h9.65v1.61h-6.43v3.22h6.43v1.61h-6.43v3.22h6.43v1.61h-9.65v-11.25Z" fill="#7b8428"/>
+          <path d="M94.06,54.37h9.65v1.61h1.61v3.22h-1.61v1.61h-1.61v1.61h1.61v1.61h1.61v1.61h-3.22v-1.61h-1.61v-1.61h-1.61v-1.61h-1.61v4.82h-3.22v-11.25ZM97.27,59.19h4.82v-3.22h-4.82v3.22Z" fill="#7b8428"/>
+          <path d="M107.29,54.37h9.65v1.61h-3.22v9.65h-3.22v-9.65h-3.22v-1.61Z" fill="#7b8428"/>
+          <path d="M118.92,54.37h6.43v1.61h-1.61v8.04h1.61v1.61h-6.43v-1.61h1.61v-8.04h-1.61v-1.61Z" fill="#7b8428"/>
+          <path d="M127.34,55.98h1.61v-1.61h8.04v1.61h1.61v1.61h-3.22v-1.61h-4.82v8.04h4.82v-3.22h-3.21v-1.61h6.43v6.43h-9.65v-1.61h-1.61v-8.04Z" fill="#7b8428"/>
+        </g>
+        <g id="Kante_Display" data-name="Kante Display">
+          <rect x="29.5" y="32" width="4" height="56" fill="#9ca5af"/>
+          <rect x="177.5" y="32" width="4" height="56" fill="#626b74"/>
+          <polygon points="181.5 88 29.5 88 33.5 84 177.5 84 181.5 88" fill="#b3bdc6"/>
+          <polygon points="177.5 36 33.5 36 29.5 32 181.5 32 177.5 36" fill="#4c5359"/>
+        </g>
+      </g>
+      <polygon points="69.5 165.58 75.5 168.73 74.35 162.05 79.21 157.32 72.5 156.35 69.5 150.27 66.5 156.35 59.79 157.32 64.65 162.05 63.5 168.73 69.5 165.58" fill="#1d1d1d"/>
+    </g>
+  </g>
+</svg>
