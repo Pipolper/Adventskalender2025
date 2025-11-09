@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 84 235">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="16 0 84 235">
   <defs>
     <filter id="luminosity-noclip" x="23" y="181" width="28" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-color="#fff" result="bg"/>
