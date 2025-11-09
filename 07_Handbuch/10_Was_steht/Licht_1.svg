@@ -40,18 +40,18 @@
         <rect id="Level_2" data-name="Level 2" x="9.25" y="150" width="24" height="19" fill="#fff" opacity=".2"/>
         <rect id="Level_3" data-name="Level 3" x="9.25" y="117.5" width="24" height="19" fill="#fff" opacity=".2"/>
       </g>
-      <g id="richtig">
+      <g id="weiss_1" data-name="weiss 1">
         <g id="Level_1-2" data-name="Level 1">
-          <rect x="9.75" y="183" width="23" height="18" fill="#2c442e"/>
+          <rect x="9.75" y="183" width="23" height="18" fill="#999"/>
         </g>
         <g id="Level_1-3" data-name="Level 1">
           <g mask="url(#mask)">
-            <rect x="9.75" y="183" width="23" height="18" rx="2" ry="2" fill="#beff6f"/>
+            <rect x="9.75" y="183" width="23" height="18" rx="2" ry="2" fill="#fff"/>
           </g>
         </g>
         <g id="Level_1-4" data-name="Level 1">
           <g mask="url(#mask-1)">
-            <rect x="12.85" y="185.35" width="16.79" height="13.29" rx="2" ry="2" fill="#deff85"/>
+            <rect x="12.85" y="185.35" width="16.79" height="13.29" rx="2" ry="2" fill="#fff"/>
           </g>
         </g>
       </g>

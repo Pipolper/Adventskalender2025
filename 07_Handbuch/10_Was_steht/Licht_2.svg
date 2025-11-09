@@ -55,34 +55,34 @@
           <polygon points="36.5 100.5 6 100.5 4 98.5 38.5 98.5 36.5 100.5" fill="#4c5359"/>
         </g>
         <rect id="Level_1" data-name="Level 1" x="9.25" y="182.5" width="24" height="19" fill="#fff" opacity=".2"/>
-        <g id="richtig">
+        <g id="weiss_1" data-name="weiss 1">
           <g id="Level_1-2" data-name="Level 1">
-            <rect x="9.75" y="183" width="23" height="18" fill="#2c442e"/>
+            <rect x="9.75" y="183" width="23" height="18" fill="#999"/>
           </g>
           <g id="Level_1-3" data-name="Level 1">
             <g mask="url(#mask)">
-              <rect x="9.75" y="183" width="23" height="18" rx="2" ry="2" fill="#beff6f"/>
+              <rect x="9.75" y="183" width="23" height="18" rx="2" ry="2" fill="#fff"/>
             </g>
           </g>
           <g id="Level_1-4" data-name="Level 1">
             <g mask="url(#mask-1)">
-              <rect x="12.85" y="185.35" width="16.79" height="13.29" rx="2" ry="2" fill="#deff85"/>
+              <rect x="12.85" y="185.35" width="16.79" height="13.29" rx="2" ry="2" fill="#fff"/>
             </g>
           </g>
         </g>
         <rect id="Level_2" data-name="Level 2" x="9.25" y="150" width="24" height="19" fill="#fff" opacity=".2"/>
-        <g id="richtig-2" data-name="richtig">
+        <g id="weiss_2" data-name="weiss 2">
           <g id="Level_1-5" data-name="Level 1">
-            <rect x="9.75" y="150.5" width="23" height="18" fill="#2c442e"/>
+            <rect x="9.75" y="150.5" width="23" height="18" fill="#999"/>
           </g>
           <g id="Level_1-6" data-name="Level 1">
             <g mask="url(#mask-2)">
-              <rect x="9.75" y="150.5" width="23" height="18" rx="2" ry="2" fill="#beff6f"/>
+              <rect x="9.75" y="150.5" width="23" height="18" rx="2" ry="2" fill="#fff"/>
             </g>
           </g>
           <g id="Level_1-7" data-name="Level 1">
             <g mask="url(#mask-3)">
-              <rect x="12.85" y="152.85" width="16.79" height="13.29" rx="2" ry="2" fill="#deff85"/>
+              <rect x="12.85" y="152.85" width="16.79" height="13.29" rx="2" ry="2" fill="#fff"/>
             </g>
           </g>
         </g>
