@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188 235">
   <g id="Seite_16" data-name="Seite 16">
-    <g id="Level-Rechts-Mitte">
+    <g id="Mitte-Rechts">
       <rect id="Exportfläche" width="188" height="235" fill="none"/>
       <path id="Modul" d="M188,17.5H15v217.5h173V17.5ZM29.5,220.5v-122h152v122H29.5Z" fill="#838f9b"/>
       <g id="Kante_Modul" data-name="Kante Modul">
         <rect id="Exportfläche-2" data-name="Exportfläche" x="15" y="17.5" width="4" height="217.5" fill="#626b74"/>
         <polygon points="188 17.5 15 17.5 19 21.5 188 21.5 188 17.5" fill="#b3bdc6"/>
         <polygon points="188 231 19 231 15 235 188 235 188 231" fill="#4c5359"/>
-      </g>
-      <g id="Display">
-        <rect id="Rand_Display" data-name="Rand Display" x="33.5" y="36" width="144" height="48" fill="#1d1d1d"/>
-        <rect id="Display-2" data-name="Display" x="41.5" y="44" width="128" height="32"/>
-        <g id="Kante_Display" data-name="Kante Display">
-          <rect x="29.5" y="32" width="4" height="56" fill="#9ca5af"/>
-          <rect x="177.5" y="32" width="4" height="56" fill="none"/>
-          <polygon points="181.5 88 29.5 88 33.5 84 177.5 84 181.5 88" fill="#b3bdc6"/>
-          <polygon points="177.5 36 33.5 36 29.5 32 181.5 32 177.5 36" fill="#4c5359"/>
-        </g>
       </g>
       <g id="Buttons">
         <g id="Kante_Buttons" data-name="Kante Buttons">
@@ -88,6 +78,25 @@
             <path d="M97.5,134.5h-56l-2-2v-22l2-2h56l2,2v22l-2,2Z" fill="#b29f7c"/>
           </g>
           <rect x="41.82" y="108.5" width="55.01" height="26" fill="none"/>
+        </g>
+      </g>
+      <g id="Display">
+        <rect id="Rand_Display" data-name="Rand Display" x="33.5" y="36" width="144" height="48" fill="#15191f"/>
+        <rect id="Display-2" data-name="Display" x="41.5" y="44" width="128" height="32" fill="#beb818"/>
+        <g>
+          <rect x="41.5" y="44" width="128" height="32" fill="none"/>
+          <path d="M70.8,54.37h9.65v1.61h-6.43v3.22h6.43v1.61h-6.43v4.82h-3.22v-11.25Z" fill="#7b8428"/>
+          <path d="M82.43,54.37h9.65v1.61h-6.43v3.22h6.43v1.61h-6.43v3.22h6.43v1.61h-9.65v-11.25Z" fill="#7b8428"/>
+          <path d="M94.06,54.37h9.65v1.61h1.61v3.22h-1.61v1.61h-1.61v1.61h1.61v1.61h1.61v1.61h-3.22v-1.61h-1.61v-1.61h-1.61v-1.61h-1.61v4.82h-3.22v-11.25ZM97.27,59.19h4.82v-3.22h-4.82v3.22Z" fill="#7b8428"/>
+          <path d="M107.29,54.37h9.65v1.61h-3.22v9.65h-3.22v-9.65h-3.22v-1.61Z" fill="#7b8428"/>
+          <path d="M118.92,54.37h6.43v1.61h-1.61v8.04h1.61v1.61h-6.43v-1.61h1.61v-8.04h-1.61v-1.61Z" fill="#7b8428"/>
+          <path d="M127.34,55.98h1.61v-1.61h8.04v1.61h1.61v1.61h-3.22v-1.61h-4.82v8.04h4.82v-3.22h-3.21v-1.61h6.43v6.43h-9.65v-1.61h-1.61v-8.04Z" fill="#7b8428"/>
+        </g>
+        <g id="Kante_Display" data-name="Kante Display">
+          <rect x="29.5" y="32" width="4" height="56" fill="#9ca5af"/>
+          <rect x="177.5" y="32" width="4" height="56" fill="#626b74"/>
+          <polygon points="181.5 88 29.5 88 33.5 84 177.5 84 181.5 88" fill="#b3bdc6"/>
+          <polygon points="177.5 36 33.5 36 29.5 32 181.5 32 177.5 36" fill="#4c5359"/>
         </g>
       </g>
       <polygon points="141.5 165.58 147.5 168.73 146.35 162.05 151.21 157.32 144.5 156.35 141.5 150.27 138.5 156.35 131.79 157.32 136.65 162.05 135.5 168.73 141.5 165.58" fill="#1d1d1d"/>
