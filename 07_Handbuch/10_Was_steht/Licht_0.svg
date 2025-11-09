@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68 235">
+  <defs>
+    <radialGradient id="Unbenannter_Verlauf_186" data-name="Unbenannter Verlauf 186" cx="21.25" cy="47.25" fx="21.25" fy="47.25" r="8.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".16" stop-color="#ededed"/>
+      <stop offset=".73" stop-color="#b4b4b4"/>
+      <stop offset="1" stop-color="#9e9e9e"/>
+    </radialGradient>
+  </defs>
+  <g isolation="isolate">
+    <g id="Ebene_2" data-name="Ebene 2">
+      <g id="Seite_16" data-name="Seite 16">
+        <g id="Licht_0">
+          <rect id="Exportfläche" width="68" height="235" fill="none"/>
+          <path id="Modul" d="M0,17.5v217.5h50.5V17.5H0ZM37.5,219.5H5v-120h32.5v120Z" fill="#838f9b"/>
+          <g id="Kante_Modul" data-name="Kante Modul">
+            <rect id="Exportfläche-2" data-name="Exportfläche" x="49" y="17.5" width="4" height="217.5" fill="#9ca5af"/>
+            <polygon points="0 17.5 0 21.5 49 21.5 53 17.5 0 17.5" fill="#b3bdc6"/>
+            <polygon points="49 231 0 231 0 235 53 235 49 231" fill="#4c5359"/>
+          </g>
+          <g id="Level">
+            <g id="Kante_Level" data-name="Kante Level">
+              <rect x="4" y="98.5" width="2" height="122" fill="#9ca5af"/>
+              <rect x="36.5" y="98.5" width="2" height="122" fill="#626b74"/>
+              <polygon points="38.5 220.5 4 220.5 6 218.5 36.5 218.5 38.5 220.5" fill="#b3bdc6"/>
+              <polygon points="36.5 100.5 6 100.5 4 98.5 38.5 98.5 36.5 100.5" fill="#4c5359"/>
+            </g>
+            <rect id="Level_1" data-name="Level 1" x="9.25" y="182.5" width="24" height="19" fill="#fff" opacity=".2"/>
+            <rect id="Level_2" data-name="Level 2" x="9.25" y="150" width="24" height="19" fill="#fff" opacity=".2"/>
+            <rect id="Level_3" data-name="Level 3" x="9.25" y="117.5" width="24" height="19" fill="#fff" opacity=".2"/>
+          </g>
+          <g id="LED_Weiss" data-name="LED Weiss">
+            <circle id="Aussen" cx="21.25" cy="47.25" r="15.25" fill="#3f3f3f"/>
+            <circle id="Innen" cx="21.25" cy="47.25" r="10.55" fill="#4d4d4d"/>
+            <circle id="Weiss" cx="21.25" cy="47.25" r="9.19" fill="url(#Unbenannter_Verlauf_186)"/>
+            <path d="M23.84,54.46c-5.87,0-10.62-4.76-10.62-10.62,0-.4.03-.78.07-1.17-.78,1.35-1.23,2.91-1.23,4.58,0,5.08,4.12,9.19,9.19,9.19,2.57,0,4.89-1.06,6.56-2.76-1.23.49-2.56.77-3.97.77Z" fill="#999"/>
+            <g id="Glanz_und_Spitzlicht" data-name="Glanz und Spitzlicht">
+              <ellipse cx="23.77" cy="44.03" rx="1.38" ry="2.38" transform="translate(-25.56 35.65) rotate(-52)" fill="#fff" mix-blend-mode="soft-light"/>
+              <path d="M23.15,43.61c.43.23.84.53,1.18.92l1.58-1.4c-.52-.59-1.13-1.05-1.79-1.4l-.98,1.88Z" fill="#f2f2f2" mix-blend-mode="soft-light" opacity=".95"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
