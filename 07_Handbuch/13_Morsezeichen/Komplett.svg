@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 332 161">
+  <defs>
+    <radialGradient id="Unbenannter_Verlauf_186" data-name="Unbenannter Verlauf 186" cx="249.25" cy="43.02" fx="249.25" fy="43.02" r="8.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".16" stop-color="#ededed"/>
+      <stop offset=".73" stop-color="#b4b4b4"/>
+      <stop offset="1" stop-color="#9e9e9e"/>
+    </radialGradient>
+    <linearGradient id="Unbenannter_Verlauf_41" data-name="Unbenannter Verlauf 41" x1="145.5" y1="27.56" x2="145.5" y2="58.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d5751f"/>
+      <stop offset=".26" stop-color="#e7a33e"/>
+      <stop offset=".27" stop-color="#e8a73e"/>
+      <stop offset=".36" stop-color="#efc243"/>
+      <stop offset=".44" stop-color="#f3d346"/>
+      <stop offset=".5" stop-color="#f5d947"/>
+      <stop offset=".54" stop-color="#f3d545"/>
+      <stop offset=".58" stop-color="#f0ca40"/>
+      <stop offset=".62" stop-color="#ebb739"/>
+      <stop offset=".66" stop-color="#e39d2e"/>
+      <stop offset=".69" stop-color="#da7b20"/>
+      <stop offset=".71" stop-color="#d66d1a"/>
+      <stop offset=".8" stop-color="#eb8930"/>
+      <stop offset="1" stop-color="#d8a147"/>
+    </linearGradient>
+    <filter id="outer-glow-1" x="82" y="0" width="127" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="9"/>
+      <feFlood flood-color="#ebd660" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g isolation="isolate">
+    <g id="Ebene_2" data-name="Ebene 2">
+      <g id="Seite_25" data-name="Seite 25">
+        <g id="Komplett">
+          <rect id="Exportfläche" y="12" width="332" height="149" fill="none"/>
+          <rect id="Exportfläche-2" data-name="Exportfläche" x="235" y="12" width="59" height="149" transform="translate(529 173) rotate(180)" fill="none"/>
+          <polygon points="235 17.27 235 72.77 260.5 72.77 260.5 96.77 235 96.77 235 157 275 157 275 17.27 235 17.27" fill="#838f9b"/>
+          <g id="Rahmen_Modul" data-name="Rahmen Modul">
+            <rect id="Exportfläche-3" data-name="Exportfläche" x="275" y="13.27" width="4" height="147.73" fill="#9ca5af"/>
+            <polygon points="235 13.27 235 17.27 275 17.27 279 13.27 235 13.27" fill="#b3bdc6"/>
+            <polygon points="235 161 279 161 275 157 235 157 235 161" fill="#4c5359"/>
+          </g>
+          <g id="Pfeil_Rechts" data-name="Pfeil Rechts">
+            <polygon points="264.5 130.5 241.5 146.5 241.5 114.5 264.5 130.5" fill="#1c1e2b"/>
+            <g id="Pfeil_Rechts-2" data-name="Pfeil Rechts">
+              <polygon points="264.5 130.5 241.5 146.5 241.5 114.5 264.5 130.5" fill="#1c1e2b"/>
+              <path d="M243.5,118.33v24.34s17.5-12.17,17.5-12.17l-17.5-12.17M241.5,114.5l23,16-23,16v-32h0Z"/>
+              <polygon points="261 130.5 254.99 126.32 256.14 124.68 264.5 130.5 241.5 146.5 243.5 142.67 261 130.5" fill="#12141e"/>
+              <polygon points="261 130.5 243.5 118.33 241.5 114.5 264.5 130.5 261 130.5" fill="#252736"/>
+            </g>
+          </g>
+          <g id="Skala">
+            <rect x="260.5" y="68.77" width="4" height="32" fill="#626b74"/>
+            <polygon points="235 100.77 264.5 100.77 260.5 96.77 235 96.77 235 100.77" fill="#b3bdc6"/>
+            <polygon points="235 68.77 235 72.77 260.5 72.77 264.5 68.77 235 68.77" fill="#4c5359"/>
+            <rect x="235" y="72.77" width="25.5" height="24" fill="#e8e9ed"/>
+            <line x1="247" y1="80.77" x2="247" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="238" y1="76.77" x2="238" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="256" y1="76.77" x2="256" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+          </g>
+          <g id="LED_Schwarz" data-name="LED Schwarz">
+            <path d="M249.25,27.77c-6.52,0-12.07,4.1-14.25,9.86v10.79c2.18,5.76,7.73,9.86,14.25,9.86,8.42,0,15.25-6.83,15.25-15.25s-6.83-15.25-15.25-15.25Z" fill="#3f3f3f"/>
+            <circle id="Innen" cx="249.25" cy="43.02" r="10.55" fill="#4d4d4d"/>
+            <circle id="Weiss" cx="249.25" cy="43.02" r="9.19" fill="url(#Unbenannter_Verlauf_186)"/>
+            <path d="M251.84,50.22c-5.87,0-10.62-4.76-10.62-10.62,0-.4.03-.78.07-1.17-.78,1.35-1.23,2.91-1.23,4.58,0,5.08,4.12,9.19,9.19,9.19,2.57,0,4.89-1.06,6.56-2.76-1.23.49-2.56.77-3.97.77Z" fill="#999"/>
+            <g id="Glanz_und_Spitzlicht" data-name="Glanz und Spitzlicht">
+              <ellipse cx="251.77" cy="39.79" rx="1.38" ry="2.38" transform="translate(65.4 213.69) rotate(-52)" fill="#fff" mix-blend-mode="soft-light"/>
+              <path d="M251.15,39.37c.43.23.84.53,1.18.92l1.58-1.4c-.52-.59-1.13-1.05-1.79-1.4l-.98,1.88Z" fill="#f2f2f2" mix-blend-mode="soft-light" opacity=".95"/>
+            </g>
+          </g>
+          <path d="M236.02,40.89c-.3-.31-.65-.54-1.02-.68v5.61c.37-.15.72-.37,1.02-.68,1.12-1.17,1.12-3.07,0-4.24Z" fill="#633929"/>
+          <polygon id="Modul" points="235 96.77 71.5 96.77 71.5 72.77 235 72.77 235 17.27 57 17.27 57 157 235 157 235 96.77" fill="#838f9b"/>
+          <g id="Rahmen_Modul-2" data-name="Rahmen Modul">
+            <rect id="Links" x="53" y="13.27" width="4" height="147.73" fill="#626b74"/>
+            <polygon id="Unten" points="57 157 53 161 235 161 235 157 57 157" fill="#4c5359"/>
+            <polygon id="Oben" points="235 13.27 53 13.27 57 17.27 235 17.27 235 13.27" fill="#b3bdc6"/>
+          </g>
+          <g id="Pfeil_Links" data-name="Pfeil Links">
+            <polygon points="67.5 130.5 90.5 146.5 90.5 114.5 67.5 130.5" fill="#1c1e2b"/>
+            <path d="M88.5,118.33v24.34s-17.5-12.17-17.5-12.17l17.5-12.17M90.5,114.5l-23,16,23,16v-32h0Z" fill="#252736"/>
+            <polygon points="71 130.5 77.01 126.32 75.86 124.68 67.5 130.5 90.5 146.5 88.5 142.67 71 130.5"/>
+            <polygon points="71 130.5 88.5 118.33 90.5 114.5 67.5 130.5 71 130.5" fill="#12141e"/>
+          </g>
+          <g id="Display">
+            <rect id="Display-2" data-name="Display" x="105" y="118.5" width="122" height="24" fill="#beb818"/>
+            <g>
+              <rect x="107" y="118.5" width="118" height="24" fill="none"/>
+              <path d="M112.25,126.48h1.61v-1.61h8.04v1.61h1.61v3.22h-1.61v1.61h1.61v3.22h-1.61v1.61h-8.04v-1.61h-1.61v-1.61h3.22v1.61h4.82v-3.22h-4.82v-1.61h4.82v-3.22h-4.82v1.61h-3.22v-1.61Z" fill="#7b8428"/>
+              <path d="M127.09,132.91h3.22v3.22h-3.22v-3.22Z" fill="#7b8428"/>
+              <path d="M133.9,124.87h11.25v1.61h-8.04v1.61h6.43v1.61h1.61v4.82h-1.61v1.61h-8.04v-1.61h-1.61v-1.61h3.22v1.61h4.82v-4.82h-8.04v-4.82Z" fill="#7b8428"/>
+              <path d="M147.14,126.48h1.61v-1.61h8.04v1.61h1.61v8.04h-1.61v1.61h-8.04v-1.61h-1.61v-8.04ZM150.35,131.3h1.61v-1.61h1.61v-1.61h1.61v-1.61h-4.82v4.82ZM155.17,129.69h-1.61v1.61h-1.61v1.61h-1.61v1.61h4.82v-4.82Z" fill="#7b8428"/>
+              <path d="M160.37,126.48h1.61v-1.61h8.04v1.61h1.61v8.04h-1.61v1.61h-8.04v-1.61h-1.61v-8.04ZM163.59,131.3h1.61v-1.61h1.61v-1.61h1.61v-1.61h-4.82v4.82ZM168.41,129.69h-1.61v1.61h-1.61v1.61h-1.61v1.61h4.82v-4.82Z" fill="#7b8428"/>
+              <path d="M180.42,124.87h3.21v3.21h1.61v3.22h3.21v-3.22h1.61v-3.21h3.21v11.25h-3.21v-3.22h-1.61v3.22h-3.21v-3.22h-1.61v3.22h-3.21v-11.25Z" fill="#7b8428"/>
+              <path d="M195.26,124.87h3.22v4.82h4.82v-4.82h3.21v11.25h-3.21v-4.82h-4.82v4.82h-3.22v-11.25Z" fill="#7b8428"/>
+              <path d="M208.5,128.09h9.65v1.61h-1.61v1.61h-1.61v1.61h-1.61v1.61h4.82v1.61h-9.65v-1.61h1.61v-1.61h1.61v-1.61h1.61v-1.61h-4.82v-1.61Z" fill="#7b8428"/>
+            </g>
+            <g id="Kante_Display" data-name="Kante Display">
+              <rect x="101" y="114.5" width="4" height="32" fill="#9ca5af"/>
+              <rect x="227" y="114.5" width="4" height="32" fill="#626b74"/>
+              <polygon points="231 146.5 101 146.5 105 142.5 227 142.5 231 146.5" fill="#b3bdc6"/>
+              <polygon points="227 118.5 105 118.5 101 114.5 231 114.5 227 118.5" fill="#4c5359"/>
+            </g>
+          </g>
+          <g id="Skala-2" data-name="Skala">
+            <rect x="71.5" y="72.77" width="163.5" height="24" fill="#e8e9ed"/>
+            <rect x="67.5" y="68.77" width="4" height="32" fill="#9ca5af"/>
+            <polygon points="235 96.77 71.5 96.77 67.5 100.77 235 100.77 235 96.77" fill="#b3bdc6"/>
+            <line x1="76" y1="76.77" x2="76" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="85" y1="80.77" x2="85" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="94" y1="76.77" x2="94" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="103" y1="80.77" x2="103" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="112" y1="76.77" x2="112" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="121" y1="80.77" x2="121" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="130" y1="76.77" x2="130" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="139" y1="80.77" x2="139" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="148" y1="76.77" x2="148" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="157" y1="80.77" x2="157" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="166" y1="76.77" x2="166" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="175" y1="80.77" x2="175" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="184" y1="76.77" x2="184" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="193" y1="80.77" x2="193" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="202" y1="76.77" x2="202" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="211" y1="80.77" x2="211" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="220" y1="76.77" x2="220" y2="92.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+            <line x1="229" y1="80.77" x2="229" y2="88.77" fill="none" stroke="#1d1d1d" stroke-miterlimit="10"/>
+          </g>
+          <g id="Widerstand">
+            <rect x="71.5" y="40.01" width="163.5" height="6" fill="#633929"/>
+            <rect x="101" y="27.77" width="8" height="30.5" fill="#615b67"/>
+            <polygon points="101 58.27 93 50.27 93 35.77 101 27.77 101 58.27" fill="#2d241d"/>
+            <rect x="182" y="27.77" width="8" height="30.5" fill="#615b67"/>
+            <polygon points="190 58.27 198 50.27 198 35.77 190 27.77 190 58.27" fill="#2d241d"/>
+            <rect x="109" y="27.77" width="73" height="30.5" fill="url(#Unbenannter_Verlauf_41)" filter="url(#outer-glow-1)"/>
+            <circle cx="71.5" cy="43.01" r="3" fill="#633929"/>
+            <circle cx="56" cy="16.27" r="3" fill="#633929"/>
+            <polygon points="68.93 44.56 53.41 17.77 58.59 14.76 74.16 41.63 68.93 44.56" fill="#633929"/>
+          </g>
+          <path d="M235,37.62c-.64,1.68-1,3.49-1,5.39s.36,3.71,1,5.39v-10.79Z" fill="#3f3f3f"/>
+          <path d="M235,40.21c-1.02-.4-2.2-.18-3.02.68-1.12,1.17-1.12,3.07,0,4.24.82.86,2,1.08,3.02.68v-5.61Z" fill="#633929"/>
+          <rect x="164.5" y="72.77" width="3" height="24" fill="#ff1d25"/>
+          <polygon points="235 68.77 67.5 68.77 71.5 72.77 235 72.77 235 68.77" fill="#4c5359"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
